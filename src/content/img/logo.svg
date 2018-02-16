@@ -1,7 +1,10 @@
 
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="427 408 301 95"><g data-item-type="image" data-item="Image" data-logo-item="" id="logo__item--logo_0" class="logo__item">
-<style>
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+<style type="text/css">
+@font-face {
+  font-family: "Montserrat";
+  src: url(https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2);
+}
 </style>
 <g class="logo__item__inner" transform="translate(596.1942274428671 376) scale(1.391345193821914 1.391345193821914) rotate(21.094348118181802 43.706581115722656 36.449471989029554)">      
   <g>
