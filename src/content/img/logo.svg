@@ -2,10 +2,10 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="427 408 301 95"><g data-item-type="image" data-item="Image" data-logo-item="" id="logo__item--logo_0" class="logo__item">
 <defs>
 <style type="text/css">
-@import url('https://fonts.googleapis.com/css?family=Sonsie+One');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
       text {
-        font-size: 290.4976px;
-        font-family: "Sonsie One";
+        font-size:32px;
+        font-family: "Montserrat";
       }
 </style>
 </defs>
@@ -60,7 +60,7 @@
 </g>
 <g data-item-type="text" data-item="Business" id="logo__item--business" class="logo__item">
   <g class="logo__item__inner" transform="translate(429.5 460.50120297609806) scale(1 1) rotate(0 0 0)">
-    <text alignment-baseline="auto" font-family="Montserrat" font-size="32px" fill="#07090b">eCommerceBase</text>
+    <text fill="#07090b">eCommerceBase</text>
   </g>
 </g>
 </svg>
