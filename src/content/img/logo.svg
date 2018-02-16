@@ -2,10 +2,11 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="427 408 301 95"><g data-item-type="image" data-item="Image" data-logo-item="" id="logo__item--logo_0" class="logo__item">
 <defs>
 <style type="text/css">
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+      @import url('https://fonts.googleapis.com/css?family=Montserrat');
       text {
-        font-size:32px;
-        font-family: "Montserrat";
+            font-size:32px;
+            font-family: "Montserrat";
+            font-weight:bold;
       }
 </style>
 </defs>
