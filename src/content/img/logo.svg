@@ -1,5 +1,5 @@
 
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="427 408 301 95"><g data-item-type="image" data-item="Image" data-logo-item="" id="logo__item--logo_0" class="logo__item">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="427 408 301 95">
 <defs>
 <style type="text/css">
       @import url('https://fonts.googleapis.com/css?family=Montserrat');
@@ -10,6 +10,7 @@
       }
 </style>
 </defs>
+
 <g class="logo__item__inner" transform="translate(596.1942274428671 376) scale(1.391345193821914 1.391345193821914) rotate(21.094348118181802 43.706581115722656 36.449471989029554)">      
   <g>
     <radialGradient id="SVGID_1_" cx="50.4023" cy="44.6494" r="58.7048" gradientUnits="userSpaceOnUse">
@@ -58,7 +59,6 @@
   </g>
 </g>
   
-</g>
 <g data-item-type="text" data-item="Business" id="logo__item--business" class="logo__item">
   <g class="logo__item__inner" transform="translate(429.5 460.50120297609806) scale(1 1) rotate(0 0 0)">
     <text fill="#07090b">eCommerceBase</text>
