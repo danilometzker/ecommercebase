@@ -11,14 +11,8 @@
 </style>
 </defs>
 
-<g class="logo__item__inner" transform="translate(596.1942274428671 376) scale(1.391345193821914 1.391345193821914) rotate(21.094348118181802 43.706581115722656 36.449471989029554)">      
+<g transform="translate(596.1942274428671 376) scale(1.391345193821914 1.391345193821914) rotate(21.094348118181802 43.706581115722656 36.449471989029554)">      
   <g>
-    <radialGradient id="SVGID_1_" cx="50.4023" cy="44.6494" r="58.7048" gradientUnits="userSpaceOnUse">
-      <stop offset="0" style="stop-color:#ECBA31"></stop>
-      <stop offset="0.3576" style="stop-color:#CB2229"></stop>
-      <stop offset="0.6606" style="stop-color:#A22430"></stop>
-      <stop offset="1" style="stop-color:#540000"></stop>
-    </radialGradient>
     <path fill="#d6a901" d="M87.644,19.25c-2.43-0.007-4.736,0.933-6.971,1.788c-6.063,2.553-54.386,23.426-57.548,24.521
                             c-1.503-3.641-3.091-7.236-4.616-10.864c-3.91,1.341-7.635,3.148-11.447,4.71c-1.179,0.59-2.686,0.998-3.229,2.345
                             c-1.027,1.587,0.483,3.952,2.394,3.486c3.369-0.635,6.271-2.644,9.565-3.576c5.568,13.176,11.25,26.316,16.876,39.473
@@ -53,14 +47,14 @@
                               c-0.278-0.084-0.833-0.246-1.114-0.323C76.821,75.347,76.55,73.319,77.547,71.505z">
       </path>
       <path fill="#daac01" d="M44.73,85.492c2.264-1.516,5.666,0.317,5.526,3.071c0.178,2.772-3.414,4.6-5.61,2.974
-                              C42.55,90.209,42.573,86.756,44.73,85.492z" data-part-id="logo__item--logo_0__2">
+                              C42.55,90.209,42.573,86.756,44.73,85.492z">
       </path>
     </g>
   </g>
 </g>
   
-<g data-item-type="text" data-item="Business" id="logo__item--business" class="logo__item">
-  <g class="logo__item__inner" transform="translate(429.5 460.50120297609806) scale(1 1) rotate(0 0 0)">
+<g>
+  <g transform="translate(429.5 460.50120297609806) scale(1 1) rotate(0 0 0)">
     <text fill="#07090b">eCommerceBase</text>
   </g>
 </g>
