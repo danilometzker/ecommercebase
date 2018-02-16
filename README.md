@@ -1,4 +1,4 @@
 ![Image](https://danilometzker.github.io/ecommercebase/src/content/img/logo.svg)
-# eCommerceBase
+# Base para criação de loja virtual completa.
 
-[online](https://danilometzker.github.io/ecommercebase/src/)
+[live](https://danilometzker.github.io/ecommercebase/src/index.php)
